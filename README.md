@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# React + Sajari Search Bar
+
+![Screenshot 2021-08-01 at 12-55-04 React App](https://user-images.githubusercontent.com/45850882/127762904-a68cd3e1-43c2-4e54-81c2-ad7da6289566.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
